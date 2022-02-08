@@ -1,0 +1,1 @@
+ls C:\Users\logic\_TODO\JLC2KiCad_lib\My_lib\footprint\packages3d\MT6816CT-ACD.wrl | grep ".wrl" | xargs -i C:\Users\logic\_TODO\JLC2KiCad_lib\tools\meshconv.exe {} -c stl
