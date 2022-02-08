@@ -1,3 +1,4 @@
 My_lib
 **/*.kicad_mod
 **/*.kicad_sym
+**/tmp
